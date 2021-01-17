@@ -1,7 +1,3 @@
-# zabbix_sysadmin
-# Autor Kessix - Sysadmin Linux 
+# Zabbix API
 
-Monitoramento com Zabbix
-
-Esse reposítório tem o objetivo de documentar scripts e aplicações para uso com Zabbix.
-
+Automatizando o processo de criar novos hosts no Zabbix através de sua própria API.
